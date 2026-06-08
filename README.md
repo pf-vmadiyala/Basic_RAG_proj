@@ -1,6 +1,6 @@
 # 🌌 Basic RAG System
 
-A Very Basic **Retrieval-Augmented Generation (RAG)** pipeline designed to ingest, chunk, embed, index, and query documents
+A Very Basic **Retrieval-Augmented Generation (RAG)** pipeline designed to ingest, chunk, embed, index, and query  using Qdrant and *without using langchain*
 
 This system uses:
 - **Sentence-Transformers** (`all-MiniLM-L6-v2`) for generating local vector embeddings.
